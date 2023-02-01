@@ -1,0 +1,20 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+01/20,Friday,2,bus ticket,Travel,Debit
+01/20,Friday,8.6,school lunch,Food,Debit
+01/21,Saturday,2,bus ticket,Travel,Debit
+01/21,Saturday,30, target (groceries),Food,Debit
+01/23,Monday,2,bus ticket,Travel,Debit
+01/24,Tuesday,2,bus ticket,Travel,Debit
+01/24,Tuesday,3000,money recieved,Financial goals and Savings,Debit
+01/24,Tuesday,18.99,the silent patient' novel,Entertainment and Recreation,Debit
+01/25,Wednesday,2,bus ticket,Travel,Debit
+01/25,Wednesday,35.95,birthday cake for myself,Entertainment and Recreation,Debit
+01/26,Thursday,625,tuition fees (took 2 more units),Bills,Debit
+01/26,Thursday,2,bus ticket,Travel,Debit
+01/27,Friday,2,bus ticket,Travel,Debit
+01/27,Friday,4.75,coffee,Food,Debit
+01/27,Friday,230,"groceries, stationary, utilities",Housing,Debit
+01/28,Saturday,5,money recieved,Bills,Debit
+01/29,Sunday,5000,money recieved,Financial goals and Savings,Debit
+02/01,Wednesday,3.5,bookstore,Food,Debit
+02/01,Wednesday,170,chinese new year pocket money,Financial goals and Savings,Cash
